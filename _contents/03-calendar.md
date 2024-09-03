@@ -35,4 +35,4 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;11** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  |  |
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;10** | Nov 28  | Deep learning engineering; fairness, accountability, and transparency |  13.5-13.6, 4.7  |  	H4 due
+| **Lecture&nbsp;12** | Nov 28  | Deep learning engineering; fairness, accountability, and transparency |  13.5-13.6, 4.7  |  	H4 due
