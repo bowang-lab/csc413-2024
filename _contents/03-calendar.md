@@ -13,24 +13,26 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;1**| Sept 5 | 	Class introduction, linear & logistic regression| 2.1-2.7 (optional), 3.1-3.5, 4.1-4.5 | H1 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;2**| Sept 12  | Under/overfitting, regularization, multilayer perceptrons | 3.6-3.7, 5.1-5.2, 5.6  | 
+| **Lecture&nbsp;2**| Sept 12  | Multilayer Perceptrons & Backpropagation | 3.6-3.7, 5.1-5.4, 5.6  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;3**| Sept 19  | Backpropagation, numerical stability, automatic differentiation | 5.3-5.4  | 
+| **Lecture&nbsp;3**| Sept 19  | Optimization & Generalization | 12.1-12.6, 12.10  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;4** | Sept 26 | 	Gradient descent, adaptive gradient methods  | 	12.1-12.6, 12.10 |  H1 due, H2 assigned
+| **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | 	7.1-7.5 |  H1 due, H2 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;5** | Oct 03  | Convolutional neural networks, batch/layer normalization, residual connections |  7.1-7.5, 8.5-8.6  |  
+| **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections |  8.5-8.6  |  
 |-------|----|--------|---------|------------------------------------------
-| **Midterm Quiz** | Oct 17  |   |  | H2 due, H3 assigned
+| **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning |  9.1-9.7, 10.1-10.8	  |  
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;6** | Oct 24  | Attention   |   11.1-11.6   |  
+| **Midterm Quiz & Lecture 7** | Oct 17  | Intro to Attention  | 11.1-11.6 | H2 due, H3 assigned
+|-------|----|--------|---------|------------------------------------------
+| **Lecture&nbsp;8** | Oct 24  | Transformers and Autoregressive Models   |   11.7, 15.8-15.10   |  
 |-------|----|--------|---------|------------------------------------------
 | **Reading Week** | Oct 31  |   |  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;7** | Nov 07  | Transformers part 1 | 11.7, 15.8-15.10 |  H3 due, H4 assigned
+| **Lecture&nbsp;9** | Nov 07  | Large language models | 11.8-11.9 |  H3 due, H4 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;8** | Nov 14  | 	Transformers part 2, large language models |  11.8-11.9  |  
+| **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, visual language model |   |  
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;9** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  |  |
+| **Lecture&nbsp;11** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  |  |
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;10** | Nov 28  | Deep learning engineering; fairness, accountability, and transparency |  13.5-13.6, 4.7  |  	H4 due
