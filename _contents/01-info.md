@@ -15,14 +15,6 @@ image: ""
   * [Bo Wang](https://wanglab.ai/)
   
 
-Contact emails:
-
-* Support ticketing system: [csc413-2023-01@cs.toronto.edu](mailto:csc413-2023-01@cs.toronto.edu)
-* TA contact: [csc413-2023-01-tas@cs.toronto.edu](mailto:csc413-2023-01-tas@cs.toronto.edu)
-* Emergency contact: [csc413-2023-01-emerg@cs.toronto.edu](mailto:csc413-2023-01-emerg@cs.toronto.edu)
-
-Please do not email the instructor or the TAs about the class directly to their personal accounts. Use the ticketing system for most of the requests, e.g., enrollment, coursework extensions, late submissions, etc.
-
 **Piazza:** Students are encouraged to sign up [Piazza](http://piazza.com/utoronto.ca/winter2023/csc4132516) to join course discussions.
 If your question is about the course material and doesn't give away any hints for the homework, please post to Piazza so that the entire class can benefit from the answer.
 
