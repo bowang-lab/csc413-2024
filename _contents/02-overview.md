@@ -9,9 +9,9 @@ image: ""
 Deep learning is the branch of machine learning focused on training neural networks. Neural networks have proven to be powerful across a wide range of domains and tasks, including computer vision, natural language processing, speech recognition, and beyond. The success of these models is partially thanks to the fact that their performance tends to improve as more and more data is used to train them. Further, there have been many advances over the past few decades that have made it easier to attain good performance when using neural networks. In this course, we will provide a thorough introduction to the field of deep learning. We will cover the basics of building and optimizing neural networks in addition to specifics of different model architectures and training schemes. The course will cover portions of the ["Dive into Deep Learning"](https://d2l.ai/) textbook and will have a standard lecture/homework/exam format.
 
 **Gradding:** 
-    * Homework, , 50 points: There will be 4 homework assignments. Homework will consist of some combination of math and coding. Each homework is worth 12.5 points.
-    * Midterm, 20 points: The midterm will take place on 10/16 and will cover all topics discussed before the midterm.
-    * Final Exam, 30 points: The final exam will take place during our scheduled final exam slot and will cover all topics discussed in the class.
+* Homework, , 50 points: There will be 4 homework assignments. Homework will consist of some combination of math and coding. Each homework is worth 12.5 points.
+* Midterm, 20 points: The midterm will take place on 10/16 and will cover all topics discussed before the midterm.
+* Final Exam, 30 points: The final exam will take place during our scheduled final exam slot and will cover all topics discussed in the class.
 
 **Late work, collaboration rules, and the honor code:** 
 

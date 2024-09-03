@@ -6,6 +6,8 @@ subheading: Assignments&#58;
 image: ""
 ---
 
+TBD
+
 <!-- |           | Handout                | Due
 |-----------|------------------------|---------
 | **Assignment 1**   | [pdf](assets/assignments/a1.pdf), [starter code](https://colab.research.google.com/github/uoft-csc413/2023/blob/master/assets/assignments/a1-code.ipynb)(make a copy in your own Drive)  | Jan. 15(out), due Feb. 3
