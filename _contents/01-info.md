@@ -10,11 +10,12 @@ image: ""
 
 **Teaching staff:**  
 
-* Instructor: 
+* Instructor and TAs: 
   * [Bo Wang](https://wanglab.ai/)
+  * TAs: Aida Ramezani (Head TA), Haonan Duan, Masoud Moghani, Mustafa Ammous
   
 
-**Piazza:** Students are encouraged to sign up [Piazza](http://piazza.com/utoronto.ca/winter2023/csc4132516) to join course discussions.
+**Piazza:** Students are encouraged to sign up [Piazza](http://piazza.com/utoronto.ca/fall2024/csc413) to join course discussions.
 If your question is about the course material and doesn't give away any hints for the homework, please post to Piazza so that the entire class can benefit from the answer.
 
 
