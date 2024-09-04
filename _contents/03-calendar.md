@@ -11,9 +11,9 @@ The following schedule is tentative; the content of each lecture may change depe
 
 |       | Date&nbsp;&nbsp;&nbsp;&nbsp;    | Topic | Suggested Readings  | Homework
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;1**| Sept 5 | 	Class introduction, linear & logistic regression| 2.1-2.7 (optional), 3.1-3.5, 4.1-4.5 | H1 assigned
+| **Lecture&nbsp;1**| Sept 5 | 	Class introduction, linear & logistic regression| 2.1-2.7 (optional), 3.1-3.5, 4.1-4.5; Roger Grosse's notes: [Linear Regression](assets/readings/L01a.pdf), [Linear Classifiers](assets/readings/L01b.pdf), [Training a Classifier](assets/readings/L01c.pdf) | H1 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;2**| Sept 12  | Multilayer Perceptrons & Backpropagation | 3.6-3.7, 5.1-5.4, 5.6  | 
+| **Lecture&nbsp;2**| Sept 12  | Multilayer Perceptrons & Backpropagation | 3.6-3.7, 5.1-5.4, 5.6; Roger Grosse's notes: [Multilayer Perceptrons](assets/readings/L02a.pdf), [Backpropagation](assets/readings/L02b.pdf)  | 
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;3**| Sept 19  | Optimization & Generalization | 12.1-12.6, 12.10  | 
 |-------|----|--------|---------|------------------------------------------
