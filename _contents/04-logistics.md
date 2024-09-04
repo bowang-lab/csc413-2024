@@ -9,7 +9,7 @@ image: ""
 **Grading:** 
 * Homework, 50 points: There will be 4 homework assignments. Homework will consist of some combination of math and coding. Each homework is worth 12.5 points.
 * Midterm, 10 points: The midterm will take place on 10/17 and will cover all topics discussed before the midterm.
-* Final Exam, 40 points: The final exam will take place during our scheduled final exam slot and will cover all topics discussed in the class.
+* Final Project, 40 points: For the course project, you will implement a research idea related to the course material. Details will be released later.
 
 **Late work, collaboration rules, and the honor code:** 
 
