@@ -31,7 +31,7 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;9** | Nov 07  | Large language models | 11.8-11.9 |  H3 due, H4 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, visual language model |   |  
+| **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, vision language model |   |  
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;11** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  |  |
 |-------|----|--------|---------|------------------------------------------
