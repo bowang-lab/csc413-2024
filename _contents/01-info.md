@@ -10,9 +10,9 @@ image: ""
 
 **Teaching staff:**  
 
-* Instructor and TAs: 
-  * [Bo Wang](https://wanglab.ai/)
-  * TAs: Aida Ramezani (Head TA), Haonan Duan, Masoud Moghani, Mustafa Ammous
+* Instructor and office hours: 
+  * [Bo Wang](https://wanglab.ai/), Mon 2-3pm, [gathertown](https://app.gather.town/app/oQyLLLmH9XNqZSJS/csc4132516office)
+* TAs: Aida Ramezani (Head TA), Haonan Duan, Masoud Moghani, Mustafa Ammous
   
 
 **Piazza:** Students are encouraged to sign up [Piazza](http://piazza.com/utoronto.ca/fall2024/csc413) to join course discussions.
