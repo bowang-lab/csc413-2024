@@ -23,9 +23,9 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning ||  9.1-9.7, 10.1-10.8	  |  
 |-------|----|--------|---------|------------------------------------------
-| **Midterm Quiz & Lecture 7** | Oct 17  | Intro to Attention  || 11.1-11.6 | H2 due, H3 assigned
+| **Midterm exams** | Oct 17  |  || | H2 due, H3 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;8** | Oct 24  | Transformers and Autoregressive Models   ||   11.7, 15.8-15.10   |  
+| **Lecture&nbsp;8** | Oct 24  | Attention, Transformers and Autoregressive Models   ||   11.1-11.7, 15.8-15.10   |  
 |-------|----|--------|---------|------------------------------------------
 | **Reading Week** | Oct 31  | |   |  | 
 |-------|----|--------|---------|------------------------------------------
