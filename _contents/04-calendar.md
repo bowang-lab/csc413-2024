@@ -15,7 +15,7 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|---------|------------------------------------------
 | **Lecture&nbsp;2**| Sept 12  | Multilayer Perceptrons & Backpropagation | [Slides](assets/slides/Lec2.pdf) | 3.6-3.7, 5.1-5.4, 5.6; Roger Grosse's notes: [Multilayer Perceptrons](assets/readings/L02a.pdf), [Backpropagation](assets/readings/L02b.pdf)  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;3**| Sept 19  | Optimization & Generalization | | 12.1-12.6, 12.10  | 
+| **Lecture&nbsp;3**| Sept 19  | Optimization & Generalization |[Slides](assets/slides/Lec03.pdf) | 12.1-12.6, 12.10; Roger Grosse's notes: [Automatic Differentiation](assets/readings/L03a.pdf), [Distributed Representations](assets/readings/L03b.pdf), [Optimization](assets/readings/L03c.pdf)  | 
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | | 	7.1-7.5 |  H1 due, H2 assigned
 |-------|----|--------|---------|------------------------------------------
