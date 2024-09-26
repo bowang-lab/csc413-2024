@@ -17,7 +17,7 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;3**| Sept 19  | Optimization & Generalization |[Slides](assets/slides/Lec03.pdf) | 12.1-12.6, 12.10; Roger Grosse's notes: [Automatic Differentiation](assets/readings/L03a.pdf), [Distributed Representations](assets/readings/L03b.pdf), [Optimization](assets/readings/L03c.pdf)  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | | 	7.1-7.5 |  H1 due, H2 assigned
+| **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | [Slides](assets/slides/Lec04.pdf) | 	7.1-7.5; Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf) |  H1 due, H2 assigned
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections ||   8.5-8.6  |  
 |-------|----|--------|---------|------------------------------------------
