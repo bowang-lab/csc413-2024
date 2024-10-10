@@ -19,9 +19,9 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | [Slides](assets/slides/Lec04.pdf) | 	7.1-7.5; Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf) |  H1 due, H2 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections ||   8.5-8.6  |  
+| **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections | [Slides](assets/slides/Lec05.pdf) |   8.5-8.6  |  
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning ||  9.1-9.7, 10.1-10.8	  |  
+| **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning | [Slides](assets/slides/lec06.pdf) |  9.1-9.7, 10.1-10.8	  |  
 |-------|----|--------|---------|------------------------------------------
 | **Midterm exams** | Oct 17  |  || | H2 due, H3 assigned
 |-------|----|--------|---------|------------------------------------------
