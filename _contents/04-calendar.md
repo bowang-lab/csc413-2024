@@ -19,9 +19,9 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;4** | Sept 26 | 	Convolutional Neural Networks and Image Classification  | [Slides](assets/slides/Lec04.pdf) | 	7.1-7.5; Roger Grosse's notes: [ConvNets](assets/readings/L04a.pdf), [Image Classification](assets/readings/L04b.pdf). Related papers: [Yann LeCun’s 1998 LeNet](assets/readings/lecun-98.pdf), [AlexNet](assets/readings/AlexNet.pdf) |  H1 due, H2 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections | [Slides](assets/slides/Lec05.pdf) |   8.5-8.6  |  
+| **Lecture&nbsp;5** | Oct 03  | Batch/layer normalization, residual connections | [Slides](assets/slides/Lec05.pdf) |   8.5-8.6, Roger Grosse’s notes: [Generalization](https://csc413-uoft.github.io/2021/assets/readings/L06a.pdf), [Exploding Vanishing Gradients](https://csc413-uoft.github.io/2021/assets/readings/L06b.pdf). Related papers: [Dropout](https://jmlr.org/papers/v15/srivastava14a.html), [ResNet](https://arxiv.org/abs/1512.03385)  |  
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning | [Slides](assets/slides/lec06.pdf) |  9.1-9.7, 10.1-10.8	  |  
+| **Lecture&nbsp;6** | Oct 10  | Recurrent Neural Networks, sequence-to-sequence learning | [Slides](assets/slides/lec06.pdf) |  9.1-9.7, 10.1-10.8, Roger Grosse's notes: [RNNs](assets/readings/L07a.pdf), [Exploding Vanishing Gradients](assets/readings/L07b.pdf). Related papers: [LSTM](https://www.bioinf.jku.at/publications/older/2604.pdf), [ResNet](https://arxiv.org/abs/1512.03385), [Neural machine translation](https://arxiv.org/pdf/1409.0473)	  |  
 |-------|----|--------|---------|------------------------------------------
 | **Midterm exams** | Oct 17  |  || | H2 due, H3 assigned
 |-------|----|--------|---------|------------------------------------------
