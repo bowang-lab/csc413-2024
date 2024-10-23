@@ -13,6 +13,6 @@ image: ""
 | **Assignment 2**   |  [pdf](assets/assignments/a2.pdf)  | Sept. 26(out), due Oct. 17
 | **Assignment 3**   | [pdf](assets/assignments/A2.pdf)   | Oct. 17(out), due Nov. 7
 | **Assignment 4**   |   | 
-| **Course Project**   |   | 
+| **Course Project**   | [pdf](assets/assignments/project.pdf)  | Oct. 23(out)
 
 <br/> 
