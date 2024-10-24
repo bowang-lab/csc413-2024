@@ -25,7 +25,7 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Midterm exams** | Oct 17  |  || | H2 due, H3 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;8** | Oct 24  | Attention, Transformers and Autoregressive Models   ||   11.1-11.7, 15.8-15.10   |  
+| **Lecture&nbsp;8** | Oct 24  | Attention, Transformers and Autoregressive Models   | [Slides](assets/slides/lec08.pdf)  |   11.1-11.7, 15.8-15.10; Related papers: [Transformers](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), [BERT pre-training](https://arxiv.org/pdf/1810.04805.pdf), [PixelRNNs](https://arxiv.org/abs/1601.06759), [WaveNet](https://arxiv.org/abs/1609.03499), [PixelCNNs](https://arxiv.org/abs/1606.05328).   |  
 |-------|----|--------|---------|------------------------------------------
 | **Reading Week** | Oct 31  | |   |  | 
 |-------|----|--------|---------|------------------------------------------
