@@ -29,7 +29,7 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Reading Week** | Oct 31  | |   |  | 
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;9** | Nov 07  | Generative Models: GAN, VAE, LLMs ||  11.8-11.9 |  H3 due, H4 assigned
+| **Lecture&nbsp;9** | Nov 07  | Generative Models: GAN, VAE, LLMs | [Slides](assets/slides/Lec09.pdf) |  11.8-11.9 |  H3 due, H4 assigned
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, vision language model | |   |  
 |-------|----|--------|---------|------------------------------------------
