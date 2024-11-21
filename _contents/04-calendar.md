@@ -31,8 +31,8 @@ The following schedule is tentative; the content of each lecture may change depe
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;9** | Nov 07  | Generative Models: GAN, VAE, LLMs | [Slides](assets/slides/Lec09.pdf) |  11.8-11.9 |  H3 due, H4 assigned
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, vision language model | |   |  
+| **Lecture&nbsp;10** | Nov 14  | 	Diffusion model, vision language model | [Slides](assets/slides/Lec10.pdf) |   |  
 |-------|----|--------|---------|------------------------------------------
-| **Lecture&nbsp;11** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  | |  |
+| **Lecture&nbsp;11** | Nov 21  | Additional architecture grab bag: GNNs, autoencoders, UNet, MoE  | [Slides](assets/slides/Lec11.pdf) |  |
 |-------|----|--------|---------|------------------------------------------
 | **Lecture&nbsp;12** | Nov 28  | Deep learning engineering; fairness, accountability, transparency, and recent trends in deep learning  | |  13.5-13.6, 4.7  |  	H4 due
